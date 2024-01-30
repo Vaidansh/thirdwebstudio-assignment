@@ -1066,8 +1066,7 @@
 .home {
   position: relative;
   line-height: 27px;
-  color: white;
-  text-decoration: none;
+  cursor: pointer;
 }
 .a11,
 .a12,
@@ -1089,8 +1088,7 @@
   position: relative;
   line-height: 27px;
   z-index: 0;
-  color: white;
-  text-decoration: none;
+  cursor: pointer;
 }
 .b,
 .span8 {
