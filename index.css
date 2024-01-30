@@ -1066,6 +1066,8 @@
 .home {
   position: relative;
   line-height: 27px;
+  color: white;
+  text-decoration: none;
 }
 .a11,
 .a12,
@@ -1087,6 +1089,8 @@
   position: relative;
   line-height: 27px;
   z-index: 0;
+  color: white;
+  text-decoration: none;
 }
 .b,
 .span8 {
